@@ -13,6 +13,7 @@ search_date: Refers to the year in which database or grey literature searches we
 Covidence ID: Refers to the Covidence ID (e.g., #1973) associated with the study
 		
 country: Represents to the reported country in which pre-harvest population dynamics experiments were carried out (e.g., U.S., Spain, Japan).
+
 -If country was not provided or could not be reliably extracted for a given pre-harvest study, the study was reported as "NP" for not provided.
 -If study represented a post-harvest study, the study was reported as “NA” for not applicable.  
 	
