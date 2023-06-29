@@ -47,8 +47,11 @@ The following repository contains the data extracted for a scoping review entitl
   * If a given study did not report using attenuated or non-pathogenic strains in population dynamics experiments, or such information could not be reliably extracted from the full-text, the study was reported as “NA”
 	
 **isolation_source:** Represents the reported isolation source for bacterial strains that were used in population dynamics experiments. 
-  * If isolation source of bacterial strains used was not provided or could not be reliably extracted from the full-text of a given study, this category   was reported as “NP” for not provided. 
-	
+  * If isolation source of bacterial strains used was not provided or could not be reliably extracted from the full-text of a given study, this category   was reported as “NP” for not provided.
+
+**isolation_outbreak:** Represents additional metadata pertaining to whether bacterial strains used in population dynamics experiments were reported to be associated with an outbreak (including produce-associated human outbreak vs. non-produce associated human outbreak) or not. 
+  * If isolation source of bacterial strains used was not provided or could not be reliably extracted from the full-text of a given study, this category was reported as “NP” for not provided.
+    
 **amr_phenotype:** Represents the reported antimicrobial resistance phenotype(s) that were reported to be associated with bacterial strains used in population dynamics experiments. 
   * If antimicrobial resistance phenotype information for bacterial strains used was not provided or could not be reliably extracted from the full-text of a given study, this category was reported as “NP” for not provided. 
 
